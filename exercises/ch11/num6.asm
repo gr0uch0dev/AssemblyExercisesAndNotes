@@ -1,3 +1,7 @@
+;11.6
+; Write a program that creates a new text file. Prompt the user for a student identification number,
+; last name, first name, and date of birth. Write this information to the file. Input several more
+; records in the same manner and close the file.
 .386
 .model flat, STDCALL
 ;flat is the memory model used => protected mode => 32-bit addresses
